@@ -8,7 +8,7 @@ I am currently working at Utah Valley University as a Technician III for the Col
 
 * 🌍  I'm based in Utah
 * ✉️  You can contact me at [blakeriding@gmail.com](mailto:blakeriding@gmail.com)
-* ⚡  I am currently going back to school to earn my BS in Computer Science
+* ⚡  I am currently going back to school to earn my BAS in Computer Science
 
 <a href="https://www.twitter.com/riding" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/riding?logo=twitter&style=for-the-badge&color=ec4899&labelColor=1c1917"
