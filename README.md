@@ -4,7 +4,7 @@ Hi 👋 My name is Blake Riding
 Technician III at Utah Valley University
 ----------------------------------------
 
-I am currently working at Utah Valley University as a Technician III for the College of Engineering and Technology where I handle all Faculty/Staff Computers. I am also the creator of mwrandomclass.com & coldwarrandomclass.com
+I am currently working at Utah Valley University as a Technician III for the College of Engineering and Technology where I handle computer labs for multiple departments . I am also the creator of mwrandomclass.com & coldwarrandomclass.com
 
 * 🌍  I'm based in Utah
 * ✉️  You can contact me at [blakeriding@gmail.com](mailto:blakeriding@gmail.com)
